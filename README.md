@@ -1,4 +1,4 @@
-# Detector de Objetos con Cámara en Tiempo Real - YOLOv8
+# Detector de Objetos con Cámara en Tiempo Real - Ultralytics YOLOv8
 
 Este proyecto te permite detectar objetos en un video utilizando el modelo `yolov8s.pt` de YOLOv8, y visualizar los resultados en tiempo real. Personaliza tu experiencia con este modelo pre-entrenado y experimenta con la detección de objetos en diversas situaciones.
 
