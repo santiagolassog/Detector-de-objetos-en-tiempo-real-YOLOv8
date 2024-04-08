@@ -28,7 +28,7 @@ Este proyecto te permite detectar objetos en un video utilizando el modelo `yolo
 ## Estructura del Proyecto
 
 - **`detect_objects.py`**: El script principal que contiene el código para la detección de objetos en video.
-- **`yolov8s.pt`**: Los pesos pre-entrenados del modelo YOLOv8 (pueden variar dependiendo del modelo utilizado).
+- **`yolov8s.pt`**: Los pesos pre-entrenados del modelo YOLOv8.
 
 ## Agradecimientos
 
