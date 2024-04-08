@@ -1,3 +1,7 @@
+"""------------------------------------------------
+Created on Mon Apr  8 14:57:21 2024
+@author: Santiago Lasso
+------------------------------------------------"""
 # Importar librerías
 import cv2
 from ultralytics import YOLO
