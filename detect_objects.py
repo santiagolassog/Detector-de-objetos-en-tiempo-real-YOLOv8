@@ -36,9 +36,11 @@ def main():
 
     # Bucle a través de los frames del video
     while cap.isOpened():
+        
         # Leer un frame del video
         success, frame = cap.read()
-        
+
+        # Girar imagen de cámara en espejo
         frame = cv2.flip(frame, 1)
 
         if success:
